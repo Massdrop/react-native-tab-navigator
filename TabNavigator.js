@@ -175,10 +175,10 @@ let styles = StyleSheet.create({
     opacity: 0,
   },
   defaultSelectedTitle: {
-    color: 'rgb(0, 122, 255)',
+    color: '#00aeda',
   },
   defaultSelectedIcon: {
-    tintColor: 'rgb(0, 122, 255)',
+    tintColor: '#00aeda',
   },
 });
 
